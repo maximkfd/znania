@@ -1,0 +1,43 @@
+{
+  "type": "relation",
+  "id": 359832,
+  "members": [
+    {
+      "type": "way",
+      "ref": 10899173,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 68238664,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 89418229,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 503636994,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 503636993,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 89414798,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "leisure": "park",
+    "name": "Малоохтинский парк",
+    "type": "multipolygon",
+    "wikidata": "Q4278389",
+    "wikipedia": "ru:Малоохтинский парк"
+  }
+}
